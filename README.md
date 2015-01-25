@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is a rep for the first course project
+This is a repo for the first course project
